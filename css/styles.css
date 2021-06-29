@@ -7335,7 +7335,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #f4623a !important;
+  color: #184387 !important;
 }
 
 .text-secondary {
@@ -7391,7 +7391,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #184387 !important;
 }
 
 .bg-secondary {
@@ -10866,7 +10866,7 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
-  background-color: #f4623a;
+  background-color: #184387;
   opacity: 1;
 }
 
@@ -10892,10 +10892,10 @@ hr.divider-light {
   padding: 0.75rem 0;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
-  color: #f4623a;
+  color: #184387;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: #f4623a !important;
+  color: #184387 !important;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -10923,16 +10923,16 @@ hr.divider-light {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #212529;
+    color: #184387;
   }
   #mainNav.navbar-shrink .navbar-brand:hover {
-    color: #f4623a;
+    color: #184387;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
     color: #212529;
   }
   #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
-    color: #f4623a;
+    color: #184387;
   }
 }
 
